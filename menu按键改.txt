@@ -1,0 +1,11 @@
+AppsKey::
+Send {Ctrl down}
+Send {Alt down}
+Send {Shift down}
+return
+
+AppsKey Up::
+Send {Ctrl up}
+Send {Alt up}
+Send {Shift up}
+return
